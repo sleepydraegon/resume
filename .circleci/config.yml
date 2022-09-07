@@ -16,7 +16,7 @@ jobs:
       - checkout
       - run:
           name: "Say hello"
-          command: "cat README.md"
+          command: "cat resume2.md"
          
 
 # Invoke jobs via workflows
